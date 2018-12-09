@@ -1,3 +1,5 @@
+#Criar um arquivo application.properties e copiar o conteúdo deste arquivo para ele, com os respectivos valores.
+
 #Servidor Web
 server.port=9000
 
